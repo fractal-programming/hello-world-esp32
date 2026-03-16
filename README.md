@@ -1,4 +1,4 @@
-![GitHub](https://img.shields.io/github/license/NoOrientationProgramming/hello-world-stm32?style=plastic&color=blue)
+![GitHub](https://img.shields.io/github/license/fractal-programming/hello-world-stm32?style=plastic&color=blue)
 [![Standard](https://img.shields.io/badge/standard-C%2B%2B11-blue.svg?style=plastic&logo=c%2B%2B)](https://en.wikipedia.org/wiki/C%2B%2B#Standardization)
 
 ## ESP32 Hello World
@@ -9,7 +9,7 @@
 
 ### Clone repo with
 ```
-git clone https://github.com/NoOrientationProgramming/hello-world-esp32.git --recursive
+git clone https://github.com/fractal-programming/hello-world-esp32.git --recursive
 ```
 
 Enter directory
