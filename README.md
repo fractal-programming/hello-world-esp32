@@ -3,7 +3,9 @@
 
 ## ESP32 Hello World
 
-...
+Built with **Fractal System Architecture (FSA)**
+
+Learn more: https://github.com/fractal-programming
 
 ## How to use
 
